@@ -1,4 +1,6 @@
-# Testing time to fork() and exec() process
+# Measuring time to fork ane execute in C
+
+This program measures the time it takes to fork and exec a process. 
 
 Compile Application.c by the following: 'gcc -o application application.c -lrt'
 Compile Timer.c by the following: 'gcc -o timer timer.c -lrt'
