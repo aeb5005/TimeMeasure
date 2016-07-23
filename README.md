@@ -1,6 +1,7 @@
 # Measuring time to fork and execute a process using C
 
 Compile Application.c by the following: `gcc -o application application.c -lrt`
+
 Compile Timer.c by the following: `gcc -o timer timer.c -lrt`
 
 Compiled with `gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04)`
