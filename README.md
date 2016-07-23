@@ -1,4 +1,4 @@
-# Measuring time to fork and execute in C
+# Measuring time to fork and execute a process using C
 
 This program measures the time it takes to fork and exec a process. 
 
